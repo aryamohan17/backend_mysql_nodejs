@@ -1,0 +1,5 @@
+1.  npx express-generator
+2.  npm i
+3.  create a .env file
+4.  create a file for db.js
+5.  npm i dotenv for env  
